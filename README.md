@@ -1,2 +1,2 @@
 # mysticuno.github.io
-Personal Website: chenriquez.com
+Personal Website: https://chenriquez.com
