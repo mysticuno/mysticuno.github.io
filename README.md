@@ -1,2 +1,2 @@
 # mysticuno.github.io
-Personal Website: https://chenriquez.com
+Personal Website: [chenriquez.com](http://chenriquez.com)
